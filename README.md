@@ -4,10 +4,6 @@ A modern, responsive personal portfolio website built to showcase my skills, pro
 
 ---
 
-## 🚀 Live Preview
-*(Add your GitHub Pages or hosting link here)*  
-`https://your-portfolio-link.com`
-
 ---
 
 ## 📌 Features
@@ -39,5 +35,3 @@ A modern, responsive personal portfolio website built to showcase my skills, pro
 - Git & GitHub
 
 ---
-
-## 📁 Project Structure
